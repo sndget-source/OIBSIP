@@ -35,7 +35,7 @@ The Iris dataset, loaded directly from `sklearn.datasets.load_iris()` — no ext
 **Best model: K-Nearest Neighbours (KNN)** — it classified every test sample correctly across all three species, with no misclassifications even in the overlapping Versicolor/Virginica region where the other two models made small errors.
 
 ## Files
-- `Shalini_Naga_Dhonthu_Balla_Task1.ipynb` — full notebook with EDA, visualizations, model training, and evaluation.
+- `Shalini Naga Dhonthu Balla_Task1.ipynb` — full notebook with EDA, visualizations, model training, and evaluation.
 
 ## How to Run
 1. Clone this repository.
